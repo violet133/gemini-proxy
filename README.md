@@ -21,7 +21,7 @@ This is a proxy server designed specifically for the Google Gemini API. It allow
 
 ## 🚀 Deployment Guide
 
-We highly recommend using Vercel for a quick and easy one-click deployment.
+We highly recommend using Docker + Claw Cloud for a quick and easy one-click deployment.
 
 ### Vercel
 >[!CAUTION]
